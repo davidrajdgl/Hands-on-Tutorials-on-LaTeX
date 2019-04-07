@@ -20,7 +20,7 @@ For the order you may follow the following:
     
     In this video, we drive through basic `tabular` environment and then `table` environment which allows to float the table and caption the table. We also discuss about cross referencing the table by labeling and referring in the document. 
 
-- [How to type Math Equations in LaTeX](https://github.com/davidrajdgl/Hands-on-Tutorials-on-LaTeX/tree/master/4.Type%20Equations)
+- [How to type Math Equations in LaTeX](https://www.youtube.com/watch?v=P-CwZVDdsoo&t=295s)
 
     In this tutorial, we run through how to type different math equations in our documents. We introduce `amsmath` package for the same.  We mainly focus on 
     - Inline equations (using `$` symbol)
